@@ -41,11 +41,11 @@ python imagenet_train.py --mode elastic --training fast --epsilon 0.01 --epsilon
 
 `--training`: to use ietrative optimization or one-step optimization, can be `fast` or `iterative`.
 
-`--epsilon`: the coefficient $\epsilon$ or $\epsilon_1$ in elastic net mode.
+`--epsilon`: the coefficient $\epsilon$ in l1 norm and group norm mode, or $\epsilon_1$ in elastic net mode.
 
 `--epsilon2`: the coefficient $\epsilon_2$ in elastic net mode.
 
-`--data_dir`:directory of the training data.
+`--data_dir`: directory of the training data.
 
 `--snapshot_path`: directory to store the trained model.
 
