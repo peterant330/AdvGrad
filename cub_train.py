@@ -88,7 +88,7 @@ if __name__ == '__main__':
                 'acc': acc,
                 'epoch': epoch,
             }
-            if not os.path.isdir({args.snapshot_path}):
-                os.mkdir({args.snapshot_path})
+            if not os.path.isdir(args.snapshot_path):
+                os.mkdir(args.snapshot_path)
             torch.save(state, os.path.join(args.snapshot_path, 'cub_{}.pth'.format(epsilon)))
             best_acc = acc
