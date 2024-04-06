@@ -7,6 +7,7 @@ from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms, utils
 from PIL import Image
 import warnings
+import numpy as np
 warnings.filterwarnings("ignore")
 
 class ImageNette_train(Dataset):

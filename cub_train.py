@@ -5,7 +5,7 @@ import os
 from efficientnet_pytorch import EfficientNet
 import torch.optim as optim
 import argparse
-
+import numpy as np
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process some integers.')
