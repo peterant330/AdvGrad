@@ -1,5 +1,5 @@
 # Structured Gradient-based Interpretations via Norm-Regularized Adversarial Training
-Implementation for CVPR 2024 paper Structured Gradient-based Interpretations via Norm-Regularized Adversarial Training by Shizhan Gong, [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/index.html), and [Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/).
+Implementation for CVPR 2024 paper [Structured Gradient-based Interpretations via Norm-Regularized Adversarial Training](http://arxiv.org/abs/2404.04647) by Shizhan Gong, [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/index.html), and [Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/).
 
 ## Sample Results
 ![Alt text](asset/samples.png?raw=true "Title")
