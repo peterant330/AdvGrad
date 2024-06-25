@@ -74,7 +74,8 @@ If you find this work helpful, you can cite our paper as follows:
 @inproceedings{gong2024structured,
   title={Structured Gradient-based Interpretations via Norm-Regularized Adversarial Training},
   author={Gong, Shizhan and Dou, Qi and Farnia, Farzan},
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11009--11018},
   year={2024}
 }
 ```
